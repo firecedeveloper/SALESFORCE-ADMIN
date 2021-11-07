@@ -4,6 +4,7 @@ STEP 1
 CREATE OBJECT
 
 Label: Battle Station
+
 Plural Label: Battle Stations
 Record Name: Battle Station Name
 Check the Allow Reports checkbox
