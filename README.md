@@ -25,6 +25,10 @@ CREATE CUSTOM TAB
 ![TABS](https://user-images.githubusercontent.com/63440215/140631102-e7035527-fe32-4fc4-81b1-38ea7dde2587.PNG)
 
 
+STEP 3
+Enable  field tracking 
+
+![FIELDS TRACKING](https://user-images.githubusercontent.com/63440215/140631257-6858ebc9-8bcb-43ae-885d-05e197d60c13.PNG)
 
 
 
