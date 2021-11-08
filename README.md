@@ -48,5 +48,10 @@ CREATE APP
 ![image](https://user-images.githubusercontent.com/63440215/140717423-9e4d913f-bb0c-45c8-ab1d-09e87508768f.png)
 
 
+Battle Station—This will be our main object that tracks the status of the project, its supplies and resources.
+Resource—Projects are about doing "stuff" and you need resources (that is, people) to do "stuff." 
+We'll use the resources custom object to track the number of people working on the construction project and how much time they are committed to it.
+Supply— You also need supplies and equipment to build a Battle Station. We'll use this object to track our supplies and their costs.
+
 
 
