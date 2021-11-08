@@ -1,7 +1,13 @@
 
-PROJECT MANAGMENT APPP
+PROJECT MANAGMENT APP
+This app allows users to manage and track resources and supplies used to build a Battle station.
+1. The date model is created for this app which only requires a few object will small number of fields
+2. Modify the user interface on the browser and on the Salesforce mobile app using page layouts, compact layouts, and global actions.
+3. Implement business logic using formulas, validation rules and a process builder.
+4. Build reports and dashboards to track the status of supplies and analyze how well the company manages resources.
 
 
+SECTION 1
 STEP 1
 CREATE OBJECT
 
