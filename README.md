@@ -53,4 +53,6 @@ CREATE APP
 4. Supply— You also need supplies and equipment to build a Battle Station. We'll use this object to track our supplies and their costs.
 
 
+![data modeling](https://user-images.githubusercontent.com/63440215/140719936-721cd800-a58c-48e7-911c-b3b3c4d6da6d.PNG)
+
 
