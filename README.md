@@ -1,4 +1,4 @@
-<h1 style="color:blue;">PROJECT MANAGMENT APP <h1/>
+<h1style="color:blue;">PROJECT MANAGMENT APP <h1/>
 
   
   <p> This app allows users to manage and track resources and supplies used to build a Battle station.
