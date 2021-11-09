@@ -1,7 +1,6 @@
- style="color:blue;">PROJECT MANAGMENT APP 
+PROJECT MANAGMENT APP 
 
-  
-This app allows users to manage and track resources and supplies used to build a Battle station.
+  This app allows users to manage and track resources and supplies used to build a Battle station.
 
 1. The date model is created for this app which only requires a few object will small number of fields
 2. Modify the user interface on the browser and on the Salesforce mobile app using page layouts, compact layouts, and global actions.
