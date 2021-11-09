@@ -1,5 +1,5 @@
 
-<p style="color:blue;">PROJECT MANAGMENT APP <p/>
+<h1 style="color:blue;">PROJECT MANAGMENT APP <h1/>
 
 
   
