@@ -1,5 +1,5 @@
 
-PROJECT MANAGMENT APP
+<b>PROJECT MANAGMENT APP</b>
 
 This app allows users to manage and track resources and supplies used to build a Battle station.
 
@@ -73,3 +73,7 @@ MODIFY PAGE LAYOUT
 
 
 ![PAGE LAYOUT 1](https://user-images.githubusercontent.com/63440215/140857366-7e85bdf6-87c7-4dcc-ab0a-88e8c1ead36e.PNG)
+
+
+![image](https://user-images.githubusercontent.com/63440215/140858112-7eedc1b5-ea68-480a-b0cf-b3ef2196f071.png)
+
