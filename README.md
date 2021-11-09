@@ -59,3 +59,17 @@ CREATE APP
 
 Fields    {Project status field}
 Data type {Pick List}
+
+
+USER EXPERIENCE 
+
+Modify battle station page layout
+Add Roll- up Summary for Resources 
+
+MODIFY PAGE LAYOUT
+
+![PAGE LAYOUT 2](https://user-images.githubusercontent.com/63440215/140857317-45de5835-d4b0-4089-a81c-8981f8ee297b.PNG)
+
+
+
+![PAGE LAYOUT 1](https://user-images.githubusercontent.com/63440215/140857366-7e85bdf6-87c7-4dcc-ab0a-88e8c1ead36e.PNG)
