@@ -75,4 +75,20 @@ MODIFY PAGE LAYOUT
 
 
 ![image](https://user-images.githubusercontent.com/63440215/140858112-7eedc1b5-ea68-480a-b0cf-b3ef2196f071.png)
-<p/>
+
+
+ADD BUSINESS LOGIC
+
+Create a Validation Rule
+
+Create an automated process with Lightning Process Builder
+
+![image](https://user-images.githubusercontent.com/63440215/140862781-b32d5462-a90b-40a6-891b-92f2b461fa94.png)
+
+
+ build a process that updates the project as "Complete" when the weapons system is changed to "Fully Operational"
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/63440215/140863291-15446bc8-fab6-43bd-8028-dbf08c5130bb.png)
+
+
